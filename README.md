@@ -1,4 +1,4 @@
-# app-guess
+# FullStack Quiz Game for hearthstone /// Firebase
 
 ## Project setup
 ```
